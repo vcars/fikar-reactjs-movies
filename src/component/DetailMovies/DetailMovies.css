@@ -1,0 +1,72 @@
+.container-detail {
+  
+    top: 110px;
+    width: 1300px;
+    background-color: #808080;
+    margin: 20px auto;
+    position: relative;
+ 
+}
+
+.detail .title {
+    position: relative;
+    background-color: aliceblue;
+    width: 100%;
+    overflow: auto;
+}
+
+.detail .title  p {
+    font-weight: bold;
+    padding: 10px;
+}
+
+.detail .title img {
+    padding: 10px;
+    width: 60px;
+    height: 50px;
+    float: left;
+}
+
+.detail {
+    width: 750px;
+    margin: auto;
+}
+
+.detail img {
+    width: 100%;
+}
+
+.detail p {
+    text-align: justify;
+    line-height: 25px;
+}
+
+.like-detail {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.like-detail .love{
+    top: 10px;
+    right: 10px;
+    position: absolute;
+    width: 30px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-image: url("../../assets/images/love.png");
+}
+
+.like-detail p {
+    position: absolute;
+    top: 10px;
+    right: 1px;
+}
+
+
+
+
+
+
+
+
